@@ -1,0 +1,8 @@
+C:\Users\amir\Documents\FirePwd.Net\firepwd\bin\x64\Debug\firepwd.net.exe
+C:\Users\amir\Documents\FirePwd.Net\firepwd\bin\x64\Debug\firepwd.net.pdb
+C:\Users\amir\Documents\FirePwd.Net\firepwd\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\amir\Documents\FirePwd.Net\firepwd\bin\x64\Debug\System.Data.SQLite.dll
+C:\Users\amir\Documents\FirePwd.Net\firepwd\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\amir\Documents\FirePwd.Net\firepwd\bin\x64\Debug\System.Data.SQLite.xml
+C:\Users\amir\Documents\FirePwd.Net\firepwd\obj\x64\Debug\firepwd.net.exe
+C:\Users\amir\Documents\FirePwd.Net\firepwd\obj\x64\Debug\firepwd.net.pdb
