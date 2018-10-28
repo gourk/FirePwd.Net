@@ -5,3 +5,17 @@ C:\Users\amir\Documents\FirePwd.Net\firepwd\bin\x64\Release\Newtonsoft.Json.xml
 C:\Users\amir\Documents\FirePwd.Net\firepwd\obj\x64\Release\firepwd.net.exe
 C:\Users\amir\Documents\FirePwd.Net\firepwd\bin\x64\Release\System.Data.SQLite.xml
 C:\Users\amir\Documents\FirePwd.Net\firepwd\obj\x64\Release\firepwd.net.csprojResolveAssemblyReference.cache
+C:\Users\test\Documents\FirePwd.Net\firepwd\obj\x64\Release\firepwd.net.csproj.CoreCompileInputs.cache
+C:\Users\test\Documents\FirePwd.Net\firepwd\bin\x64\Release\firepwd.net.exe.config
+C:\Users\test\Documents\FirePwd.Net\firepwd\bin\x64\Release\firepwd.net.exe
+C:\Users\test\Documents\FirePwd.Net\firepwd\bin\x64\Release\EntityFramework.dll
+C:\Users\test\Documents\FirePwd.Net\firepwd\bin\x64\Release\EntityFramework.SqlServer.dll
+C:\Users\test\Documents\FirePwd.Net\firepwd\bin\x64\Release\Newtonsoft.Json.dll
+C:\Users\test\Documents\FirePwd.Net\firepwd\bin\x64\Release\System.Data.SQLite.dll
+C:\Users\test\Documents\FirePwd.Net\firepwd\bin\x64\Release\System.Data.SQLite.EF6.dll
+C:\Users\test\Documents\FirePwd.Net\firepwd\bin\x64\Release\System.Data.SQLite.Linq.dll
+C:\Users\test\Documents\FirePwd.Net\firepwd\bin\x64\Release\EntityFramework.xml
+C:\Users\test\Documents\FirePwd.Net\firepwd\bin\x64\Release\EntityFramework.SqlServer.xml
+C:\Users\test\Documents\FirePwd.Net\firepwd\bin\x64\Release\System.Data.SQLite.xml
+C:\Users\test\Documents\FirePwd.Net\firepwd\bin\x64\Release\System.Data.SQLite.dll.config
+C:\Users\test\Documents\FirePwd.Net\firepwd\obj\x64\Release\firepwd.net.exe

@@ -5,11 +5,13 @@
     <StartWorkingDirectory>E:\dotNET\C#\firepwd\firepwd\bin\Debug\</StartWorkingDirectory>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
-    <StartWorkingDirectory>C:\Users\amir\Documents\FirePwd.Net\firepwd\bin\x64\Release\</StartWorkingDirectory>
+    <StartWorkingDirectory>
+    </StartWorkingDirectory>
     <StartArguments>
     </StartArguments>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
-    <StartWorkingDirectory>C:\Users\amir\Documents\FirePwd.Net\firepwd\bin\x64\Release\</StartWorkingDirectory>
+    <StartWorkingDirectory>
+    </StartWorkingDirectory>
   </PropertyGroup>
 </Project>
