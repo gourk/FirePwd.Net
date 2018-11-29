@@ -1,0 +1,7 @@
+C:\Users\amir\Documents\FirePwd.Net\firepwd\obj\x86\Release\firepwd.net.csprojResolveAssemblyReference.cache
+C:\Users\amir\Documents\FirePwd.Net\firepwd\bin\Release\firepwd.net.exe
+C:\Users\amir\Documents\FirePwd.Net\firepwd\bin\Release\Newtonsoft.Json.dll
+C:\Users\amir\Documents\FirePwd.Net\firepwd\bin\Release\System.Data.SQLite.dll
+C:\Users\amir\Documents\FirePwd.Net\firepwd\bin\Release\Newtonsoft.Json.xml
+C:\Users\amir\Documents\FirePwd.Net\firepwd\obj\x86\Release\firepwd.net.exe
+C:\Users\amir\Documents\FirePwd.Net\firepwd\bin\Release\System.Data.SQLite.xml
