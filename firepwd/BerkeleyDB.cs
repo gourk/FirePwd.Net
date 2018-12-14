@@ -16,16 +16,18 @@
             List<byte> entire = new List<byte>();
             Keys = new List<KeyValuePair<string, string>>();
 
-            using (BinaryReader dbReader = new BinaryReader(File.OpenRead(FileName)))
+            using (FileStream fs = new FileStream(FileName, FileMode.Open, FileAccess.Read, FileShare.ReadWrite))
             {
-
-                int pos = 0;
-                int length = (int)dbReader.BaseStream.Length;
-
-                while (pos < length)
+                using (BinaryReader dbReader = new BinaryReader(fs))
                 {
-                    entire.Add(dbReader.ReadByte());
-                    pos += sizeof(byte);
+                    int pos = 0;
+                    int length = (int)dbReader.BaseStream.Length;
+
+                    while (pos < length)
+                    {
+                        entire.Add(dbReader.ReadByte());
+                        pos += sizeof(byte);
+                    }
                 }
             }
             string magic = BitConverter.ToString(this.Extract(entire.ToArray(), 0, 4, false)).Replace("-", "");
